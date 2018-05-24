@@ -123,7 +123,7 @@ following environment variables:
    The interval in milliseconds used to log the sent messages counter.
 
 ## Your task
-The application has to be build using one of the following languages: Java, Scala, Go. For the implementation you can use any library you consider useful, but please privide the reason in the README.
+The application has to be build using one of the following languages: Java, Scala. For the implementation you can use any library you consider useful, but please privide the reason in the README.
 
 Please provide the result as a github repository:
 1. The project with all source files
